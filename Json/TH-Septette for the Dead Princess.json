@@ -1,0 +1,26 @@
+{
+    "Music": [
+		{
+			"root": {
+				"Title": "Septette for the Dead Princess",
+				"Circle": "Toranoana",
+				"Album": "Touhou Shikashuu 2 (Touhou Anthology 2)",
+				"Arrangement": "SSH (Saitama Saisyu Heiki)",
+				"Released": "Unknown Release Date",
+				"Genre": "Metal",
+				"Original": "Septette for the Dead Princess",
+				"Character": "Remilia",
+				"Artist": "Saitama Saisyu Heiki",
+				"Artists": {
+					"Vocal": "Not specified",
+					"Lyric": "Not specified",
+					"Illustration": "Not specified",
+					"Movie": "Not specified"
+				},
+				"Options": {
+					"Link": "https://www.youtube.com/watch?v=92uGPswSWyY"
+				}
+			}
+		}
+	]
+}

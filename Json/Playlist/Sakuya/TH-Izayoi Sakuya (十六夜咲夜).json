@@ -1,0 +1,26 @@
+{
+    "Music": [
+        {
+            "root": {
+                "Title": "Izayoi Sakuya (\u5341\u516d\u591c\u54b2\u591c)",
+                "Circle": "CarrotWine",
+                "Album": "Charisma Lash Type-S",
+                "Arrangement": "Unkown Arrangement",
+                "Released": "14/08/2015",
+                "Genre": "Symphonic",
+                "Original": "Lunar Clock ~ Luna Dial ",
+                "Character": "Sakuya Izayoi",
+                "Artist": "CarrotWine",
+                "Artists": {
+                    "Vocal": "None",
+                    "Lyric": "None",
+                    "Illustration": "None",
+                    "Movie": "None"
+                },
+                "Options": {
+                    "Link": "https://www.youtube.com/watch?v=8wAFdldgrWo"
+                }
+            }
+        }
+    ]
+}

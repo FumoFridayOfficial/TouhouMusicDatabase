@@ -1,0 +1,26 @@
+{
+    "Music": [
+        {
+            "root": {
+                "Title": "China Gal",
+                "Circle": "A-One",
+                "Album": "TOHO EUROBEAT VOL.1",
+                "Arrangement": "Sugano",
+                "Released": "14/08/2010",
+                "Genre": "Eurobeat",
+                "Original": "Chinese Tea",
+                "Character": "Hong Meiling",
+                "Artist": "T. Stebbins",
+                "Artists": {
+                    "Vocal": "T. Stebbins",
+                    "Lyric": "T. Stebbins",
+                    "Illustration": "None",
+                    "Movie": "None"
+                },
+                "Options": {
+                    "Link": "https://www.youtube.com/watch?v=iTCrAnEi-C8"
+                }
+            }
+        }
+    ]
+}

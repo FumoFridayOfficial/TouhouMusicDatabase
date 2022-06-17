@@ -1,0 +1,26 @@
+{
+    "Music": [
+        {
+            "root": {
+                "Title": "UN Owen Was Her Jesterdist",
+                "Circle": "Jesterdist",
+                "Album": "None",
+                "Arrangement": "None",
+                "Released": "15/01/2019",
+                "Genre": "EDM",
+                "Original": "U.N. Owen Was Her?",
+                "Character": "Flandre Scarlet",
+                "Artist": "Jesterdist",
+                "Artists": {
+                    "Vocal": "None",
+                    "Lyric": "None",
+                    "Illustration": "None",
+                    "Movie": "None"
+                },
+                "Options": {
+                    "Link": "https://www.youtube.com/watch?v=Mx9MRmSZcQw"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Music": [
+        {
+            "root": {
+                "Title": "Galaxy Collapse",
+                "Circle": "\u9ed2\u7687\u5e1d",
+                "Album": "\u9ed2\u7687\u5e1d",
+                "Arrangement": "\u9ed2\u7687\u5e1d",
+                "Released": "02/05/2016",
+                "Genre": "Speedcore",
+                "Original": "Heian Alien",
+                "Character": "Nue Houjuu",
+                "Artist": "Kurokotei",
+                "Artists": {
+                    "Vocal": "\u9ed2\u7687\u5e1d",
+                    "Lyric": "\u9ed2\u7687\u5e1d",
+                    "Illustration": "\u9ed2\u7687\u5e1d",
+                    "Movie": "\u9ed2\u7687\u5e1d"
+                },
+                "Options": {
+                    "Link": "https://www.youtube.com/watch?v=VJFNcHgQ4HM"
+                }
+            }
+        }
+    ]
+}

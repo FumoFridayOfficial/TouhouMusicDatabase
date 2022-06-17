@@ -1,0 +1,26 @@
+{
+    "Music": [
+        {
+            "root": {
+                "Title": "Leave me in the Dark",
+                "Circle": "A-One",
+                "Album": "TOHO EUROBEAT VOL.3",
+                "Arrangement": "Sugano",
+                "Released": "13/03/2011",
+                "Genre": "Eurobeat",
+                "Original": "Apparitions Stalk the Night",
+                "Character": "Rumia",
+                "Artist": "T.Stebbins",
+                "Artists": {
+                    "Vocal": "T.Stebbins",
+                    "Lyric": "T.Stebbins",
+                    "Illustration": "Unkown Illustrator",
+                    "Movie": "Unkown Video"
+                },
+                "Options": {
+                    "Link": "https://www.youtube.com/watch?v=4V8xg-Qq1hc"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Music": [
+        {
+            "root": {
+                "Title": "Heian Alien - Lyrica Live",
+                "Circle": "Lyrica Live",
+                "Album": "None",
+                "Arrangement": "None",
+                "Released": "29/11/2014",
+                "Genre": "Vocal",
+                "Original": "Heian Alien",
+                "Character": "Nue Houjuu",
+                "Artist": "Lyrica Live",
+                "Artists": {
+                    "Vocal": "Lyrica Live",
+                    "Lyric": "Lyrica Live",
+                    "Illustration": "None",
+                    "Movie": "None"
+                },
+                "Options": {
+                    "Link": "https://youtu.be/3goTkOZDK9M"
+                }
+            }
+        }
+    ]
+}

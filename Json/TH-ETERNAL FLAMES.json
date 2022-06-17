@@ -1,0 +1,26 @@
+{
+    "Music": [
+        {
+            "root": {
+                "Title": "ETERNAL FLAMES",
+                "Circle": "\u9ad8\u68a8\u5de5\u623f (Takanashi Koubou)",
+                "Album": "TOHO EURO MISSION 02",
+                "Arrangement": "DJ Timotei",
+                "Released": "17/05/2020",
+                "Genre": "Eurobeat",
+                "Original": "Nuclear Fusion",
+                "Character": "Utsuho Reiuji",
+                "Artist": "Not specified",
+                "Artists": {
+                    "Vocal": "\u859b\u5357",
+                    "Lyric": "\u30d1\u30c8\u3061\u3083\u3093",
+                    "Illustration": "None",
+                    "Movie": "None"
+                },
+                "Options": {
+                    "Link": "https://www.youtube.com/watch?v=t9PRj0A2_FA"
+                }
+            }
+        }
+    ]
+}

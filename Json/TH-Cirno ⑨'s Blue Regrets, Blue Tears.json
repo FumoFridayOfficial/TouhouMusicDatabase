@@ -1,0 +1,26 @@
+{
+    "Music": [
+		{
+			"root": {
+				"Title": "Cirno \u2468's Blue Regrets, Blue Tears",
+				"Circle": "\u8c5a\u4e59\u5973 ~ Buta Otome",
+				"Album": "\u88cf\u30d9\u30b9\u30c8",
+				"Arrangement": "\u30b3\u30f3\u30d7",
+				"Released": "09/09/2016",
+				"Genre": "Unknown",
+				"Original": "Beloved Tomboyish Girl",
+				"Character": "Cirno",
+				"Artist": "Not specified",
+				"Artists": {
+					"Vocal": "\u30e9\u30f3",
+					"Lyric": "\u30b3\u30f3\u30d7",
+					"Illustration": "None",
+					"Movie": " \u8c5a\u4e59\u5973 ~ Buta Otome"
+				},
+				"Options": {
+					"Link": "https://www.youtube.com/watch?v=e4WnqqwdrcU"
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+    "Music": [
+        {
+            "root": {
+                "Title": "Religious Sun Faith",
+                "Circle": "Jesterdist",
+                "Album": "None",
+                "Arrangement": "None",
+                "Released": "21/03/2012",
+                "Genre": "Nu Style Gabba",
+                "Original": "Nuclear Fusion",
+                "Character": "Utsuho Reiuji",
+                "Artist": "\u306a\u3064\u3055\u3093 \u69d8",
+                "Artists": {
+                    "Vocal": "None",
+                    "Lyric": "None",
+                    "Illustration": "None",
+                    "Movie": "None"
+                },
+                "Options": {
+                    "Link": "https://www.youtube.com/watch?v=23vqXU3C9bg"
+                }
+            }
+        }
+    ]
+}

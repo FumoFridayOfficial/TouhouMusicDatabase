@@ -1,0 +1,26 @@
+{
+    "Music": [
+        {
+            "root": {
+                "Title": "SAMURAI GHOST GIRL, KILL! KILL!",
+                "Circle": "Akatsuki Records \u300c\u6681 Records\u300d",
+                "Album": "\u30aa\u30de\u30b1\u30d9\u30b9\u30c8\u306a\u306e\u304b\uff5e\u305d\u306e\u2460",
+                "Arrangement": "Stack Bros.",
+                "Released": "13/08/2016",
+                "Genre": "Traditional Rock",
+                "Original": "Ancient Temple",
+                "Character": "Youmu Konpaku",
+                "Artist": "Not specified",
+                "Artists": {
+                    "Vocal": "Stack",
+                    "Lyric": "Stack",
+                    "Illustration": "None",
+                    "Movie": "None"
+                },
+                "Options": {
+                    "Link": "https://www.youtube.com/watch?v=hG6ZNNWLb6U"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Music": [
+		{
+			"root": {
+				"Title": "Killing in the Moonlit Night",
+				"Circle": "SOUND HOLIC",
+				"Album": " \u7d05\u9b54 -KOUMA- \u300cRed Demon\u300d",
+				"Arrangement": "Swing Holic Band",
+				"Released": "14/05/2015",
+				"Genre": "Jazz",
+				"Original": "A Soul as Red as a Ground Cherry",
+				"Character": "Rumia",
+				"Artist": "Not specified",
+				"Artists": {
+					"Vocal": "A\uff5eYA",
+					"Lyric": "TETRA\u587e",
+					"Illustration": "None",
+					"Movie": "None"
+				},
+				"Options": {
+					"Link": "https://www.youtube.com/watch?v=FYUm7se4G3E"
+				}
+			}
+		}
+	]
+}

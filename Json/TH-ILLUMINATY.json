@@ -1,0 +1,26 @@
+{
+    "Music": [
+        {
+            "root": {
+                "Title": "ILLUMINATY",
+                "Circle": "\u6b4c\u604b\u4eba",
+                "Album": "Luz",
+                "Arrangement": "ELEMENTAS",
+                "Released": "Unkown Release Date",
+                "Genre": "Club Dance",
+                "Original": "Flowering Night",
+                "Character": "Sakuya Izayoi",
+                "Artist": "Unkown Artist",
+                "Artists": {
+                    "Vocal": "\u307e\u3081\u307f",
+                    "Lyric": "\u307e\u3081\u307f",
+                    "Illustration": "Unkown Illustrator",
+                    "Movie": "Unkown Video"
+                },
+                "Options": {
+                    "Link": "https://www.youtube.com/watch?v=_kKKZ0syDmo"
+                }
+            }
+        }
+    ]
+}

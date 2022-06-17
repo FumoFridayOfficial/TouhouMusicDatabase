@@ -1,0 +1,26 @@
+{
+    "Music": [
+        {
+            "root": {
+                "Title": "Under the scarlet moon, insane laughter of solitude",
+                "Circle": "EastNewSound",
+                "Album": "EastNewSoundBest vol.3",
+                "Arrangement": "\u9ed2\u9ce5",
+                "Released": "Unkown Release Date",
+                "Genre": "Electronic Rock",
+                "Original": "U.N. Owen Was Her?",
+                "Character": "Flandre Scarlet",
+                "Artist": "Unkown Artist",
+                "Artists": {
+                    "Vocal": "(Tsubaki, Hotaru, Anna & hatsuki nano)",
+                    "Lyric": "nayuta & \u3044\u305a\u307f\u3093",
+                    "Illustration": "Unkown Illustrator",
+                    "Movie": "Unkown Video"
+                },
+                "Options": {
+                    "Link": "https://www.youtube.com/watch?v=CTwRMxZIioY"
+                }
+            }
+        }
+    ]
+}

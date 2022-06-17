@@ -1,0 +1,26 @@
+{
+    "Music": [
+        {
+            "root": {
+                "Title": "Emergency",
+                "Circle": "C-Clays",
+                "Album": "\u795e\u51ea -KAN-NAGI-",
+                "Arrangement": "Unkown Arrangement",
+                "Released": "29/12/2008",
+                "Genre": "Symphonic Metal",
+                "Original": "Nuclear Fusion",
+                "Character": "Utsuho Reiuji",
+                "Artist": "\u5275 \u7121\u983c\u4eba",
+                "Artists": {
+                    "Vocal": "Unkown Vocalist",
+                    "Lyric": "Unkown Lyrics",
+                    "Illustration": "Unkown Illustrator",
+                    "Movie": "Unkown Video"
+                },
+                "Options": {
+                    "Link": "https://www.youtube.com/watch?v=jQy1GmcXllo"
+                }
+            }
+        }
+    ]
+}

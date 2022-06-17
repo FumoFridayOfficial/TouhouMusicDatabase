@@ -1,0 +1,26 @@
+{
+    "Music": [
+        {
+            "root": {
+                "Title": "\u970a\u685c-Reiou-",
+                "Circle": "maritumix",
+                "Album": "None",
+                "Arrangement": "None",
+                "Released": "21/04/2011",
+                "Genre": "Instrumental",
+                "Original": "Night Sakura of Dead Spirits",
+                "Character": "Yuyuko",
+                "Artist": "maritumix",
+                "Artists": {
+                    "Vocal": "None",
+                    "Lyric": "None",
+                    "Illustration": "None",
+                    "Movie": "None"
+                },
+                "Options": {
+                    "Link": "https://www.youtube.com/watch?v=Gk1wVLqDZ3w"
+                }
+            }
+        }
+    ]
+}

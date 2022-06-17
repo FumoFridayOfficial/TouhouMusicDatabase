@@ -1,0 +1,26 @@
+{
+    "Music": [
+        {
+            "root": {
+                "Title": "Deconstruction Star",
+                "Circle": "Halozy",
+                "Album": "Starry Presto",
+                "Arrangement": "Sumijun",
+                "Released": "30/08/2009",
+                "Genre": "Trance",
+                "Original": "Plain Asia",
+                "Character": "Keine Kamishirasawa",
+                "Artist": "Sumijun",
+                "Artists": {
+                    "Vocal": "\u307b\u305f\u308b (Hotaru)",
+                    "Lyric": "\u30a2\u30b5\u30d2 (Asahi)",
+                    "Illustration": "None",
+                    "Movie": "None"
+                },
+                "Options": {
+                    "Link": "https://www.youtube.com/watch?v=eMzsG9t66rE"
+                }
+            }
+        }
+    ]
+}

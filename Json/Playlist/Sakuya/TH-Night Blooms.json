@@ -1,0 +1,26 @@
+{
+    "Music": [	
+		{
+			"root": {
+				"Title": "Night Blooms",
+				"Circle": "THE OTHER FLOWER",
+				"Album": " \u67ca (Hiiragi)",
+				"Arrangement": "\u3075\u3086 (Fuyu)",
+				"Released": "29/12/2017",
+				"Genre": "Vocal",
+				"Original": "Flowering Night",
+				"Character": "Sakuya Izayoi",
+				"Artist": "Not specified",
+				"Artists": {
+					"Vocal": "\u82b1\u305f\u3093 (Hanatan)",
+					"Lyric": "\u3075\u3086 (Fuyu)",
+					"Illustration": "None",
+					"Movie": "None"
+				},
+				"Options": {
+					"Link": "https://www.youtube.com/watch?v=Jj_S8JgHGOQ"
+				}
+			}
+		}
+	]
+}
