@@ -7,7 +7,7 @@
 
 # What is (Touhou Music Database)
 
-<b>(Touhou Music Database)</b> is a python project in which aims to have an enormous list of touhou related music content.
+<b>(Touhou Music Database)</b> is a python GUI project in which aims to have an enormous list of touhou related music content. 
 <b><h2>Features a:</h2></b>
 
 <b><ol>Music player
@@ -30,7 +30,7 @@ Many aspects will be reworked on. It will take shape of something better.
 Don't download from the green button!
 <br>
 
-<b>Go to releases tab!</b>
+<b><a href="https://github.com/FumoFridayOfficial/TouhouMusicDatabase/releases">Go to releases tab!</a></b>
 
 
 <img src="https://cdn.discordapp.com/attachments/900461215124430872/987452573072101396/PLEASE.png"/>
