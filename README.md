@@ -37,6 +37,9 @@ Don't download from the green button!
 Install the .rar and extract it!
 <img src="https://cdn.discordapp.com/attachments/900461215124430872/987453170194206811/PLEASE2.png"/>
 
+<hr>
 <b><i>Touhou Project goes to ZUN, any music mentioned goes to their author/producers/artists</i></b>
-
+<hr>
+Source code by Fumo Friday Official
+<hr>
 Working on README
