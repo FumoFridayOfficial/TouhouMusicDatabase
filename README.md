@@ -6,7 +6,11 @@
 <a href="https://github.com/FumoFridayOfficial/TouhouMusicDatabase/wiki/FFmpeg-install">Tutorial</a>
 
 # What is (Touhou Music Database)
+
 Python DPG project to store/listen music in JSON format.
+
+![CompleteShowcase3](https://user-images.githubusercontent.com/107706059/174433054-3cd21afa-8d5c-43c5-9b31-f754c2385b2c.gif)
+
 
 # Installing
 Don't download from the green button!
