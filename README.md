@@ -1,4 +1,4 @@
-<h2>!Work in progress!</h2>
+<h2>!Work on hold!</h2>
 <b></b>
 <p align="center"><img src="https://cdn.discordapp.com/attachments/839837396845330474/987401586177347654/TohoMusicDatabase.png" /></p>
 <b>This project is on hold</b>
